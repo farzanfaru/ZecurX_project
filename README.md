@@ -84,3 +84,14 @@ The tool provides:
 
 This tool is developed for educational purposes only.
 Testing must be performed only on authorized environments such as DVWA or other vulnerable test applications.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software for educational and research purposes.
+
+⚠️ This tool is intended for ethical use only. Unauthorized testing on live systems is strictly prohibited.
+
